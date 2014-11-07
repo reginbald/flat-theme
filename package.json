@@ -6,6 +6,9 @@
     "version": "1.0.0",
     "author": "Jon Reginbald Ivarsson <joni12@ru.is> (http://www.reginbald.is/)",
     "license": "MIT",
+    "engines": {
+        "brackets": ">=0.28.0"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/reginbald/flat-theme.git"
