@@ -4,11 +4,15 @@
     "description": "As Flat as it gets!",
     "homepage": "https://github.com/reginbald/flat-theme",
     "version": "1.0.0",
-    "author": "Jón Reginbald Ívarsson <joni12@ru.is> (http://www.ru.is/)",
+    "author": "Jon Reginbald Ivarsson <joni12@ru.is> (http://www.reginbald.is/)",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/reginbald/flat-theme.git"
+    },
     "theme": {
         "file": "theme.less",
         "dark": true
     },
-    "keywords": ["theme"]
+    "keywords": ["flat", "theme"]
 }
