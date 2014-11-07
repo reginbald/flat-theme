@@ -1,0 +1,14 @@
+{
+    "name": "reginbald.flat-theme",
+    "title": "Flat Theme",
+    "description": "As Flat as it gets!",
+    "homepage": "https://github.com/reginbald/flat-theme",
+    "version": "1.0.0",
+    "author": "Jón Reginbald Ívarsson <joni12@ru.is> (http://www.ru.is/)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": ["theme"]
+}
